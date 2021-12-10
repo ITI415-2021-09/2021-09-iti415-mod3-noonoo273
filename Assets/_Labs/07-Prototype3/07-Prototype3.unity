@@ -1566,6 +1566,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &529673579
 GameObject:
   m_ObjectHideFlags: 0
@@ -1947,6 +1948,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &634154639
 GameObject:
   m_ObjectHideFlags: 0
@@ -3166,8 +3168,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 732522461}
-  m_LocalRotation: {x: 0.082999185, y: 0.91136885, z: 0.33308646, w: -0.22709332}
-  m_LocalPosition: {x: 42.22673, y: -35.33517, z: 236.5445}
+  m_LocalRotation: {x: 0.01989557, y: 0.9134448, z: 0.40397936, w: -0.044983115}
+  m_LocalPosition: {x: 137.03818, y: -127.321106, z: 332.7796}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8079,17 +8081,9 @@ MonoBehaviour:
   assetGuid: 
   m_Mesh: {fileID: 339200713}
   m_IsSelectable: 1
-  m_SelectedFaces: 02000000
-  m_SelectedEdges:
-  - a: 8
-    b: 9
-  - a: 10
-    b: 8
-  - a: 9
-    b: 11
-  - a: 11
-    b: 10
-  m_SelectedVertices: 08000000090000000a0000000b000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &985929998
 Transform:
   m_ObjectHideFlags: 0
@@ -8485,6 +8479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &1021044876
 GameObject:
   m_ObjectHideFlags: 0
@@ -9268,6 +9263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &1107761136
 GameObject:
   m_ObjectHideFlags: 0
@@ -18962,6 +18958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 0}
 --- !u!1 &1118846169
 GameObject:
   m_ObjectHideFlags: 0
@@ -21978,6 +21975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!43 &1477130261
 Mesh:
   m_ObjectHideFlags: 0
@@ -23818,6 +23816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!43 &1719732478
 Mesh:
   m_ObjectHideFlags: 0
@@ -24059,8 +24058,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1725088435}
-  m_LocalRotation: {x: 0.082999185, y: 0.91136885, z: 0.33308646, w: -0.22709332}
-  m_LocalPosition: {x: 42.22673, y: -35.33517, z: 236.5445}
+  m_LocalRotation: {x: 0.01989557, y: 0.9134448, z: 0.40397936, w: -0.044983115}
+  m_LocalPosition: {x: 137.03818, y: -127.321106, z: 332.7796}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -30182,6 +30181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &1969050090
 GameObject:
   m_ObjectHideFlags: 0
@@ -31681,6 +31681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &2110110618
 GameObject:
   m_ObjectHideFlags: 0
@@ -32062,6 +32063,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &2119725944
 GameObject:
   m_ObjectHideFlags: 0
@@ -32443,6 +32445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338037cb92e9d934d97c06ab26e8ebc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickUpSound: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!43 &2129214968
 Mesh:
   m_ObjectHideFlags: 0
